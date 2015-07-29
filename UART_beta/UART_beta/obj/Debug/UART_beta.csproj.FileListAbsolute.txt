@@ -1,0 +1,10 @@
+C:\Users\Harbinger Radar\Desktop\C# code\UART_beta\UART_beta\bin\Debug\UART_beta.exe.config
+C:\Users\Harbinger Radar\Desktop\C sharp code\UART_beta\UART_beta\bin\Debug\UART_beta.exe.config
+C:\Users\Harbinger Radar\Desktop\C sharp code\UART_beta\UART_beta\bin\Debug\UART_beta.exe
+C:\Users\Harbinger Radar\Desktop\C sharp code\UART_beta\UART_beta\bin\Debug\UART_beta.pdb
+C:\Users\Harbinger Radar\Desktop\C sharp code\UART_beta\UART_beta\obj\Debug\UART_beta.csprojResolveAssemblyReference.cache
+C:\Users\Harbinger Radar\Desktop\C sharp code\UART_beta\UART_beta\obj\Debug\UART_beta.Form1.resources
+C:\Users\Harbinger Radar\Desktop\C sharp code\UART_beta\UART_beta\obj\Debug\UART_beta.Properties.Resources.resources
+C:\Users\Harbinger Radar\Desktop\C sharp code\UART_beta\UART_beta\obj\Debug\UART_beta.csproj.GenerateResource.Cache
+C:\Users\Harbinger Radar\Desktop\C sharp code\UART_beta\UART_beta\obj\Debug\UART_beta.exe
+C:\Users\Harbinger Radar\Desktop\C sharp code\UART_beta\UART_beta\obj\Debug\UART_beta.pdb
